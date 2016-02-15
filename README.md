@@ -1,2 +1,2 @@
 # Minesweeper
-Count the neighbours surrounding the element
+A visual studio project coded in C++ to find the nearest neighbours of an element in a dynamic 2-D array. 
